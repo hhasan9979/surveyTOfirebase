@@ -1,3 +1,3 @@
-# Firebase Contact Form
+# Firebase Survey Form
 
-Mobile first, responsive contact from that sends data to a firebase database
+Responsive Survey Form that sends data to a firebase database. 
